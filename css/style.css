@@ -1,0 +1,26 @@
+.navbar {
+    background-color: #F8FFE8;
+}
+
+.blog {
+    background-color: #F9FFF3; 
+    font-family: 'Trebuchet MS';
+    font-size: 18px ;
+}
+.logoparceiros{
+    width: 60px ;
+}
+
+.margin{
+    padding-top: 50px ;
+    padding-bottom: 50px ;
+}
+.rodape {
+    margin-left: 50px;
+}
+
+.desenvolvedor{
+    font-size: 9px ;
+    background-color:#F8FFE8 ;
+
+}
